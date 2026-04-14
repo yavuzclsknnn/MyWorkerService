@@ -112,10 +112,16 @@ Bu proje, aşağıdaki konularda yetkinliğimi göstermektedir:
   <img src="Ekran_Alıntısı_20.PNG" width="600"/>
 </p>
 
-## 📌 Not
 
-Bu proje, portföy amaçlı geliştirilmiş olup gerçek dünya senaryolarına uygun şekilde tasarlanmıştır.
-Kolayca genişletilebilir ve farklı sistemlere entegre edilebilir.
+## 📬 İletişim
+
+Bu proje, yazılım mimarisi ve backend geliştirme konularında yetkinliğimi göstermek amacıyla hazırlanmıştır.
+Yeni projeler, iş birlikleri veya teknik görüşmeler için benimle iletişime geçebilirsiniz.
+
+   <br/>
+⭐ Katkı  <br/> 
+Projeyi beğendiysen ⭐ vermeyi unutma!  <br/>
+  <br/> 
 
 ---
 
