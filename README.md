@@ -122,3 +122,4 @@ Kolayca genişletilebilir ve farklı sistemlere entegre edilebilir.
 ## 👨‍💻 Geliştirici
 
 Bu proje, yazılım mimarisi ve backend geliştirme konularında yetkinliğimi göstermek amacıyla hazırlanmıştır.
+Yeni projeler, iş birlikleri veya teknik görüşmeler için benimle iletişime geçebilirsiniz.
