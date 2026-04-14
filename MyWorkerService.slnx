@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MyWorkerService/MyWorkerService.csproj" />
+  <Project Path="MyWorkerService_Business/MyWorkerService_Business.csproj" />
+  <Project Path="MyWorkerService_Core/MyWorkerService_Core.csproj" />
+  <Project Path="MyWorkerService_Data/MyWorkerService_Data.csproj" />
+  <Project Path="MyWorkerService_Infrastructure/MyWorkerService_Infrastructure.csproj" />
+</Solution>
