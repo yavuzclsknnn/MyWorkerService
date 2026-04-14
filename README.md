@@ -109,7 +109,7 @@ Bu proje, aşağıdaki konularda yetkinliğimi göstermektedir:
 ---
 
 <p align="center">
-  <img src="MyWorkerService/Ekran_Alintisi_20.PNG" width="600"/>
+  <img src="MyWorkerService/Ekran_Alıntısı_20.PNG" width="600"/>
 </p>
 
 ## 📌 Not
